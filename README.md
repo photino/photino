@@ -2,7 +2,8 @@
 
 Full-stack software engineer. Having been coding more than 10 years. Current focuses on Rust and Vue.js. General interest in mathematics, physics, computer science, quantitative finance.
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=photino)
+| ![My github stats](https://github-readme-stats.vercel.app/api?username=photino&hide_border=true) | ![Top languges](https://github-readme-stats.vercel.app/api/top-langs/?username=photino&langs_count=3&hide_border=true) |
+| ------------- | ------------- |
 
 ### 🎨 Programming languages
 - Rust
