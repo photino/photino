@@ -1,28 +1,34 @@
 ## 🌾 Zan Pan
 
-Full-stack software engineer. Having been coding more than 10 years. Current focuses on Rust and Vue.js. General interest in mathematics, physics, computer science, quantitative finance.
+&ensp;🛠 Full-stack software engineer.
+
+&ensp;📝 Having been coding more than 10 years.
+
+&ensp;🔭 Current focuses on Rust and Vue.js.
+
+&ensp;💖 General interest in mathematics, physics, computer science and quantitative finance.
 
 | ![My github stats](https://github-readme-stats.vercel.app/api?username=photino&custom_title=My+GitHub+Stats&hide=contribs&line_height=24&text_bold=false&hide_border=true) | ![Top languges](https://github-readme-stats.vercel.app/api/top-langs/?username=photino&langs_count=5&layout=compact&hide_border=true) |
 | ------------- | ------------- |
 
-### 🎨 Programming languages
+#### 🎨 Programming languages
 - Rust
 - Golang
 - Node.js
 
-### 🐳 Databases
+#### 💼 Databases
 - PostgreSQL
 - MongoDB
 
-### 🌐 Web development
+#### 🌐 Web development
 - Vue.js
 - Vite
 - Egg.js
 
-### 💻 Desktop developement 
+#### 💻 Desktop developement 
 - Tauri
 
-### 📊 Data visualization
+#### 📊 Data visualization
 - D3.js
 - AntV
 - OpenLayers
