@@ -1,8 +1,6 @@
 ## 🌾 Zan Pan
 
-Full-stack software engineer. Current focuses on Rust and Vue.js.
-
-PhD in theoretical physics. General interest in mathematics, physics, computer science, quantitative finance.
+Full-stack software engineer. Current focuses on Rust and Vue.js. General interest in mathematics, physics, computer science, quantitative finance.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=photino)
 
